@@ -1,4 +1,7 @@
-cashmoneyboyz-site/
+your-project-folder/
+│
 ├── index.html
-├── images/
-│   └── cmblogo1.png
+└── images/
+    ├── cmblogo1.png
+    ├── 99a2eaf1-443a-4e20-a831-cd5cd38b5939.png
+    └── 43910f24-f16c-4d6b-a8c3-27c744f399d9.png
